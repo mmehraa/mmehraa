@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 54" width="200" height="54" role="img" aria-label="EMAIL">
+  <title>EMAIL</title>
+  <path d="M8 2h184a6 6 0 0 1 6 6v12a7 7 0 0 0 0 14v12a6 6 0 0 1-6 6H8a6 6 0 0 1-6-6V34a7 7 0 0 0 0-14V8a6 6 0 0 1 6-6z" fill="#141414" stroke="#ffb547" stroke-width="2"/>
+  <line x1="50" y1="8" x2="50" y2="46" stroke="#ffb547" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="26" y="33" text-anchor="middle" font-family='ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", "Courier New", monospace' font-size="16" font-weight="700" fill="#ffb547">@</text>
+  <text x="62" y="22" font-family='ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", "Courier New", monospace' font-size="9" letter-spacing="2" fill="#8c8c8c">TICKET</text>
+  <text x="62" y="42" font-family='ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", "Courier New", monospace' font-size="18" font-weight="700" letter-spacing="1" fill="#f2f2f2">EMAIL</text>
+</svg>

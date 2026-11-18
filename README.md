@@ -1,38 +1,53 @@
-### Hi, I'm Mayank 👋
+<a href="https://mayankmehra.pages.dev"><img src="assets/board.svg" width="100%" alt="Departure board: MAYANK MEHRA. Express, web developer, platform 1. Departs now, India to anywhere." /></a>
 
-<a href="https://mayankmehra.pages.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=C2581F&vCenter=true&width=520&height=30&lines=Freelance+web+developer+from+India;I+build+websites+people+remember" alt="Freelance web developer from India. I build websites people remember." /></a>
+<p align="center">
+  Computer science engineer (B.Tech CSE, 2026) and freelance web developer.<br />
+  I build <b>fast, animated, 3D websites</b> people remember, and full-stack products like <b>Schemo</b>.
+</p>
 
-Computer science engineer (B.Tech CSE, 2026) building fast, animated, 3D websites for businesses, and full-stack products like **Schemo**.
+<p align="center">
+  <a href="https://mayankmehra.pages.dev"><img src="assets/ticket-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mmehraa/"><img src="assets/ticket-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:mmehraa13@gmail.com"><img src="assets/ticket-email.svg" height="46" alt="Email" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayankmehra.pages.dev-1B1915?style=flat-square)](https://mayankmehra.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mmehraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmehraa/)
-[![Email](https://img.shields.io/badge/Email-mmehraa13%40gmail.com-C2581F?style=flat-square&logo=gmail&logoColor=white)](mailto:mmehraa13@gmail.com)
+<br />
 
-#### Websites I've built
+<img src="assets/station-websites.svg" height="72" alt="Websites junction" />
 
 <table>
   <tr>
-    <td width="33%"><a href="https://ember-and-oak-9m9.pages.dev"><img src="assets/ember-and-oak.jpg" alt="Ember & Oak" /></a><br /><a href="https://ember-and-oak-9m9.pages.dev"><b>Ember &amp; Oak</b></a><br /><sub>Restaurant · WebGL fire</sub></td>
-    <td width="33%"><a href="https://lumina-dental-a4x.pages.dev"><img src="assets/lumina-dental.jpg" alt="Lumina Dental" /></a><br /><a href="https://lumina-dental-a4x.pages.dev"><b>Lumina Dental</b></a><br /><sub>Dental clinic · 3D tooth</sub></td>
-    <td width="33%"><a href="https://atelier-norte-djv.pages.dev"><img src="assets/atelier-norte.jpg" alt="Atelier Norte" /></a><br /><a href="https://atelier-norte-djv.pages.dev"><b>Atelier Norte</b></a><br /><sub>Architecture studio · WebGL</sub></td>
+    <td width="33%"><a href="https://ember-and-oak-9m9.pages.dev"><img src="assets/ember-and-oak.jpg" alt="Ember & Oak" /></a><br /><code>EMB</code> <a href="https://ember-and-oak-9m9.pages.dev"><b>Ember &amp; Oak</b></a><br /><sub>Restaurant · real-time WebGL fire</sub></td>
+    <td width="33%"><a href="https://lumina-dental-a4x.pages.dev"><img src="assets/lumina-dental.jpg" alt="Lumina Dental" /></a><br /><code>LMD</code> <a href="https://lumina-dental-a4x.pages.dev"><b>Lumina Dental</b></a><br /><sub>Dental clinic · 3D tooth in code</sub></td>
+    <td width="33%"><a href="https://atelier-norte-djv.pages.dev"><img src="assets/atelier-norte.jpg" alt="Atelier Norte" /></a><br /><code>ATN</code> <a href="https://atelier-norte-djv.pages.dev"><b>Atelier Norte</b></a><br /><sub>Architecture studio · WebGL transitions</sub></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://kopi-roast.pages.dev"><img src="assets/kopi-roast.jpg" alt="Kopi Roast Co." /></a><br /><a href="https://kopi-roast.pages.dev"><b>Kopi Roast Co.</b></a><br /><sub>Online store · 3D product</sub></td>
-    <td width="33%"><a href="https://orbit-ai-b4e.pages.dev"><img src="assets/orbit-ai.jpg" alt="Orbit AI" /></a><br /><a href="https://orbit-ai-b4e.pages.dev"><b>Orbit AI</b></a><br /><sub>SaaS landing page · shaders</sub></td>
-    <td width="33%"><a href="https://mayankmehra.pages.dev"><img src="assets/portfolio.jpg" alt="My portfolio" /></a><br /><a href="https://mayankmehra.pages.dev"><b>My portfolio</b></a><br /><sub>A 3D train ride through my work</sub></td>
+    <td width="33%"><a href="https://kopi-roast.pages.dev"><img src="assets/kopi-roast.jpg" alt="Kopi Roast Co." /></a><br /><code>KPI</code> <a href="https://kopi-roast.pages.dev"><b>Kopi Roast Co.</b></a><br /><sub>Online store · 3D product configurator</sub></td>
+    <td width="33%"><a href="https://orbit-ai-b4e.pages.dev"><img src="assets/orbit-ai.jpg" alt="Orbit AI" /></a><br /><code>ORB</code> <a href="https://orbit-ai-b4e.pages.dev"><b>Orbit AI</b></a><br /><sub>SaaS launch page · GLSL shaders</sub></td>
+    <td width="33%"><a href="https://mayankmehra.pages.dev"><img src="assets/portfolio.jpg" alt="My portfolio" /></a><br /><code>HOME</code> <a href="https://mayankmehra.pages.dev"><b>My portfolio</b></a><br /><sub>Ride the train through my work</sub></td>
   </tr>
 </table>
 
-#### Also building
+<br />
 
-- **[Schemo](https://schemo.mmehraa13.workers.dev)**: helps Indian startups and MSMEs find the government schemes they qualify for. Next.js, Cloudflare.
-- **[Karya](https://github.com/mmehraa/karya)**: an operating system for small businesses, from inventory to finance. Next.js, TypeScript.
-- **[Virtual Mouse](https://github.com/mmehraa/Virtual-Mouse-Using-Hand-Gestures)**: control your computer with hand gestures. Python, OpenCV, MediaPipe.
+<img src="assets/station-building.svg" height="72" alt="Now building" />
 
-#### Tech
+- **[Schemo](https://schemo.mmehraa13.workers.dev)**: helps Indian startups and MSMEs find the government schemes they qualify for.
+- **[Karya](https://github.com/mmehraa/karya)**: an operating system for small businesses, from inventory to finance.
+- **[Virtual Mouse](https://github.com/mmehraa/Virtual-Mouse-Using-Hand-Gestures)**: control your computer with hand gestures.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vue,threejs,tailwind,nodejs,python" alt="TypeScript, JavaScript, React, Next.js, Astro, Vue, Three.js, Tailwind, Node.js, Python" />
+<br />
 
-#### Off the keyboard
+<img src="assets/station-tech.svg" height="72" alt="Tech depot" />
 
-🎬 I also edit videos, short-form and long-form. **[Watch my edits →](https://mayank-editor.pages.dev)**
+<img src="assets/tech.svg" height="44" alt="TypeScript, JavaScript, React, Next.js, Astro, Vue, Three.js, Tailwind CSS, Node.js, Python" />
+
+<br />
+
+<img src="assets/station-offduty.svg" height="72" alt="Off duty" />
+
+🎬 When I'm not coding, I edit videos: short-form and long-form. **[Watch my edits →](https://mayank-editor.pages.dev)**
+
+<br />
+
+<img src="assets/train.svg" width="100%" alt="A train running along the track. Thanks for riding. Next stop: your project." />

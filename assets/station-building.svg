@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 92" width="440" height="92" role="img" aria-label="NOW BUILDING">
+  <title>NOW BUILDING</title>
+  <rect x="40" y="70" width="8" height="22" fill="#3a3a3a"/>
+  <rect x="392" y="70" width="8" height="22" fill="#3a3a3a"/>
+  <rect x="3" y="3" width="434" height="70" rx="5" fill="#f7c948" stroke="#111111" stroke-width="4"/>
+  <rect x="10" y="10" width="420" height="56" rx="2" fill="none" stroke="#111111" stroke-width="1.5"/>
+  <text x="200" y="33" text-anchor="middle" font-family='"Nirmala UI", "Noto Sans Devanagari", "Kohinoor Devanagari", "Devanagari Sangam MN", sans-serif' font-size="18" font-weight="700" fill="#111111">अभी बन रहा है</text>
+  <text x="200" y="58" text-anchor="middle" font-family='"Arial Black", "Helvetica Neue", Arial, sans-serif' font-size="20" font-weight="900" letter-spacing="2" fill="#111111">NOW BUILDING</text>
+  <line x1="372" y1="16" x2="372" y2="60" stroke="#111111" stroke-width="1.5"/>
+  <text x="401" y="45" text-anchor="middle" font-family='ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", "Courier New", monospace' font-size="15" font-weight="700" fill="#111111">PF 2</text>
+</svg>
