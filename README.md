@@ -35,4 +35,4 @@ Computer science engineer (B.Tech CSE, 2026) building fast, animated, 3D website
 
 #### Off the keyboard
 
-🎬 I also edit videos, short-form and long-form. **[Watch my edits →](https://mmehraa.github.io/editor-portfolio/)**
+🎬 I also edit videos, short-form and long-form. **[Watch my edits →](https://mayank-editor.pages.dev)**
