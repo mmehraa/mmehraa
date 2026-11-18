@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mmehraa/"><img src="https://img.shields.io/badge/LinkedIn-mmehraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mmehraa13@gmail.com"><img src="https://img.shields.io/badge/Email-mmehraa13%40gmail.com-C2581F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=mmehraa&style=flat-square&color=C2581F&label=Profile+views" alt="Profile views" />
 </p>
@@ -117,7 +118,7 @@ I build web products end to end: the interface, the server, the database and the
 
 - Feedback from founders and small business owners on [Schemo](https://schemo.mmehraa13.workers.dev)
 - Interesting full-stack problems and people to build with
-- If that sounds like you, [say hello](mailto:mmehraa13@gmail.com)
+- If that sounds like you, [say hello](mailto:mmehraa13@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/mmehraa/)
 
 </details>
 
