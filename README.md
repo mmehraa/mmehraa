@@ -1,20 +1,77 @@
 <h1 align="center">Hi, I'm Mayank 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/mmehraa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C2581F&center=true&vCenter=true&width=560&lines=Full-stack+developer+from+India;Building+Schemo+for+Indian+startups+%26+MSMEs;Next.js+%C2%B7+TypeScript+%C2%B7+Cloudflare;I+like+turning+ideas+into+shipped+products" alt="Full-stack developer from India. Building Schemo. Next.js, TypeScript, Cloudflare." />
+  <a href="https://mayankmehra.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C2581F&center=true&vCenter=true&width=600&lines=Freelance+web+developer+from+India;I+build+websites+people+remember;Building+Schemo+for+Indian+startups+%26+MSMEs;Also+a+video+editor%3A+I+cut+out+the+boring+part" alt="Freelance web developer from India. I build websites people remember. Building Schemo. Also a video editor." />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://mayankmehra.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mayankmehra.pages.dev-1B1915?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mmehraa/"><img src="https://img.shields.io/badge/LinkedIn-mmehraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mmehraa13@gmail.com"><img src="https://img.shields.io/badge/Email-mmehraa13%40gmail.com-C2581F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mmehraa.github.io/editor-portfolio/"><img src="https://img.shields.io/badge/Video_portfolio-watch_my_edits-3FA79F?style=flat-square&logo=youtube&logoColor=white" alt="Video editing portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=mmehraa&style=flat-square&color=C2581F&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
-I build web products end to end: the interface, the server, the database and the deploy. Lately that means **Next.js, TypeScript and Cloudflare**, with a soft spot for tools that make life easier for small businesses in India.
+I'm a computer science engineer (B.Tech CSE, 2026) and freelance web developer. I build **fast, animated, 3D websites**: restaurants, clinics, studios, online stores and launch pages, plus full-stack products like **Schemo**. If it should feel memorable and load fast, that's my kind of project.
+
+## 🌐 Websites I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ember-and-oak-9m9.pages.dev"><img src="assets/ember-and-oak.jpg" alt="Ember & Oak website" /></a>
+      <h3>Ember &amp; Oak</h3>
+      Restaurant website with real-time WebGL fire: 1,800 embers that scatter from your cursor.<br />
+      <sub>Astro · Three.js · GSAP · Tailwind</sub><br />
+      <a href="https://ember-and-oak-9m9.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/ember-and-oak">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lumina-dental-a4x.pages.dev"><img src="assets/lumina-dental.jpg" alt="Lumina Dental website" /></a>
+      <h3>Lumina Dental</h3>
+      Dental clinic site with a 3D tooth modelled in code, a whitening slider and online booking.<br />
+      <sub>HTML · CSS · JavaScript · Three.js</sub><br />
+      <a href="https://lumina-dental-a4x.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/lumina-dental">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://atelier-norte-djv.pages.dev"><img src="assets/atelier-norte.jpg" alt="Atelier Norte website" /></a>
+      <h3>Atelier Norte</h3>
+      Architecture studio portfolio where photos melt into each other with a WebGL transition.<br />
+      <sub>Nuxt · Vue · WebGL · GSAP Flip</sub><br />
+      <a href="https://atelier-norte-djv.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/atelier-norte">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://kopi-roast.pages.dev"><img src="assets/kopi-roast.jpg" alt="Kopi Roast Co. website" /></a>
+      <h3>Kopi Roast Co.</h3>
+      Online coffee shop with a 3D bag that re-prints its label as you pick size and grind.<br />
+      <sub>Next.js · React Three Fiber · Decap CMS</sub><br />
+      <a href="https://kopi-roast.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/kopi-roast">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://orbit-ai-b4e.pages.dev"><img src="assets/orbit-ai.jpg" alt="Orbit AI website" /></a>
+      <h3>Orbit AI</h3>
+      SaaS launch page with a shader-built orb that follows you down the page, and a ⌘K palette.<br />
+      <sub>Next.js · Three.js shaders · GSAP</sub><br />
+      <a href="https://orbit-ai-b4e.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/orbit-ai">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mayankmehra.pages.dev"><img src="assets/portfolio.jpg" alt="Mayank Mehra portfolio website" /></a>
+      <h3>My portfolio</h3>
+      A train journey through my work: scroll to ride, and each station is a project.<br />
+      <sub>Astro · Three.js · GSAP</sub><br />
+      <a href="https://mayankmehra.pages.dev"><b>Live site</b></a> · <a href="https://github.com/mmehraa/portfolio">Code</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>All five client sites are concept projects. Want one for your business? <a href="https://mayankmehra.pages.dev">Get a quote</a>.</sub></p>
 
 ## 🚀 Currently building
 
@@ -44,7 +101,7 @@ I build web products end to end: the interface, the server, the database and the
   </tr>
 </table>
 
-## 🛠️ Projects
+## 🛠️ Other projects
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -56,8 +113,24 @@ I build web products end to end: the interface, the server, the database and the
 ## 🧰 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,flask,java,php,sqlite,cloudflare,git,vscode&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind, HTML, CSS, Python, Flask, Java, PHP, SQLite, Cloudflare, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vue,nuxtjs,threejs,tailwind,html,css,nodejs,python,flask,java,php,sqlite,git,vscode&perline=10" alt="TypeScript, JavaScript, React, Next.js, Astro, Vue, Nuxt, Three.js, Tailwind, HTML, CSS, Node.js, Python, Flask, Java, PHP, SQLite, Git, VS Code" />
 </p>
+
+## 🎬 When I'm not coding: video editing
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://mmehraa.github.io/editor-portfolio/"><img src="assets/editor.jpg" alt="Mayank's video editing portfolio, styled as a retro desktop" /></a>
+    </td>
+    <td valign="top">
+      <h3>"I cut out the boring part."</h3>
+      I also edit videos, short-form and long-form. My editing portfolio is a retro desktop: double-click the folders to watch my edits, open <code>about.txt</code>, or hit <i>hire me</i>.
+      <br /><br />
+      <a href="https://mmehraa.github.io/editor-portfolio/"><b>Open the video portfolio →</b></a> &nbsp;·&nbsp; <a href="https://github.com/mmehraa/editor-portfolio">Code</a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub at a glance
 
@@ -94,10 +167,10 @@ I build web products end to end: the interface, the server, the database and the
 <summary><b>⚡ Fun facts</b> (click to open)</summary>
 <br />
 
+- My portfolio is a train you ride by scrolling, with a split-flap departure board and an e-ticket about me.
+- My video portfolio is a retro desktop: films live in folders you double-click.
 - I built a mouse you don't have to touch: wave a hand at the webcam and the cursor follows.
 - Schemo started as "a list of schemes" and grew into eligibility checks, tax calculators and a crawler that checks government websites every 15 minutes.
-- My projects span TypeScript, Python, Java and PHP, so I'm happy to pick up whatever the job needs.
-- I care a lot about small details: every scheme on Schemo links to its official source, and nothing is called "verified" until a person has checked it.
 
 </details>
 
@@ -105,10 +178,10 @@ I build web products end to end: the interface, the server, the database and the
 <summary><b>💬 Ask me about</b></summary>
 <br />
 
-- Building full-stack apps with **Next.js** and deploying them on **Cloudflare Workers**
+- 3D and animated websites with **Three.js**, **GSAP** and WebGL shaders
+- Building full-stack apps with **Next.js** and **TypeScript**
 - Government schemes for Indian startups and MSMEs (Schemo covers all 36 states and union territories)
-- Computer vision with **OpenCV** and **MediaPipe**
-- Turning a messy idea into a shipped product
+- Video editing for short-form and long-form content
 
 </details>
 
@@ -116,9 +189,9 @@ I build web products end to end: the interface, the server, the database and the
 <summary><b>🧭 What I'm looking for</b></summary>
 <br />
 
-- Feedback from founders and small business owners on [Schemo](https://schemo.mmehraa13.workers.dev)
-- Interesting full-stack problems and people to build with
-- If that sounds like you, [say hello](mailto:mmehraa13@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/mmehraa/)
+- Businesses that want a website people remember: restaurants, clinics, studios, stores, launches
+- Founders and small business owners who can give feedback on [Schemo](https://schemo.mmehraa13.workers.dev)
+- If that sounds like you, [get a quote](https://mayankmehra.pages.dev), [say hello](mailto:mmehraa13@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/mmehraa/)
 
 </details>
 
@@ -128,8 +201,7 @@ I build web products end to end: the interface, the server, the database and the
 
 - **Editor:** VS Code
 - **OS:** Windows
-- **Stack of choice:** Next.js, TypeScript, Tailwind CSS
-- **Ships to:** Cloudflare Workers + D1
+- **Favourite stack:** Next.js or Astro, TypeScript, Three.js, GSAP, Tailwind CSS
 
 </details>
 
