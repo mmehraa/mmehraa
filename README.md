@@ -1,7 +1,7 @@
 <a href="https://mayankmehra.pages.dev"><img src="assets/board.svg" width="100%" alt="Departure board: MAYANK MEHRA. Express, web developer, platform 1. Departs now, India to anywhere." /></a>
 
 <p align="center">
-  Computer science engineer (B.Tech CSE, 2026) and freelance web developer.<br />
+  Computer science engineer (B.Tech CSE, 2026) and frontend web developer.<br />
   I build <b>fast, animated, 3D websites</b> people remember, and full-stack products like <b>Schemo</b>.
 </p>
 
